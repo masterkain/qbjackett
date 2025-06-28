@@ -1,5 +1,9 @@
 # jackett.py
 
+# VERSION: 1.0
+# AUTHORS: Diego de las Heras (ngosang@hotmail.es)
+# CONTRIBUTORS: ukharley, hannsen, Alexander Georgievskiy, qb-rewrite[bot], Kain
+
 import json
 import os
 import urllib.request
